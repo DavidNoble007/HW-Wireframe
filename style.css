@@ -1,0 +1,83 @@
+body { 
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px
+}
+#leadheader {background-color: lightgray;
+        margin: auto;    
+        width: 70%;
+        padding: 20px;
+        color: gray;
+        text-align: center;
+        margin-top: 10px
+            
+}
+#navheader {background-color: lightgray;
+        margin: auto;
+        width: 70%;
+        padding: 20px;
+        color: gray;
+        text-align: center;
+        margin-top: 10px
+}
+#centersection {background-color: lightgray;
+    margin-left: 13.25%;
+    height: 250px;
+    width: 40%;
+    padding-top: 20px;
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+    float: left
+}
+#centerarticle {background-color: gray;
+    float: left;
+    height: 160px;
+    width: 410px;
+    padding-top: 20px;
+    color: lightgray;
+    margin-top: 40px;
+    margin-left: 20px
+    }
+#centerh1 {background-color: lightgrey;
+        float: left;
+        height: 42px;
+        width: 390px;
+        padding-top: 5px;
+        color: gray;
+        margin-top: 25px;
+        margin-left: 10px
+    }
+#centerp {background-color: lightgrey;
+        float: left;
+        height: 42px;
+        width: 390px;
+        padding-top: 5px;
+        color: gray;
+        margin-top: 10px;
+        margin-left: 10px
+    }
+#aside {background-color: lightgray;
+        float: right;
+        height: 250px;
+        width: 31%;
+        padding-top: 20px;
+        color: gray;
+        text-align: center;
+        margin-top: 20px;
+        margin-right: 13.3%;
+        margin-left: 10px
+    }
+
+.clearfix {
+        clear: both;
+      }
+ #footer1 {background-color: lightgray;
+    margin: auto;
+    width: 70%;
+    padding: 20px;
+    color: gray;
+    text-align: center;
+    margin-top: 20px
+}
